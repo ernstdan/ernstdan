@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ernstdan
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in learning to code and push forward the skills already learned.
 - 🌱 I’m currently learning frontend dev and how to contribute on GitHub.
 - 💞️ I’m looking to collaborate on beginner frindly repos (html, css, vanilla js)
